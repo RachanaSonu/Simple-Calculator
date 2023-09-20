@@ -7,4 +7,4 @@ This calculator is a web-based tool that allows you to perform basic arithmetic 
 
 # Installation
 + git clone https://github.com/RachanaSonu/Simple-Calculator.git
-+ calculator website:https://rachanasonu.github.io/Simple-Calculator/
++ calculator website - https://rachanasonu.github.io/Simple-Calculator/
